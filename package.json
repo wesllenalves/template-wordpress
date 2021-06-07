@@ -1,0 +1,21 @@
+{
+  "name": "tamplate",
+  "version": "1.0.0",
+  "description": "tamplate para wordpress",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WesllenAlves",
+  "license": "ISC",
+  "dependencies": {
+    "@popperjs/core": "^2.9.2",
+    "bootstrap": "^5.0.1",
+    "esm": "^3.2.25",
+    "gulp-sass": "^4.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
